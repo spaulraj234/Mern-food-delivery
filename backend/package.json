@@ -8,8 +8,8 @@
   "scripts": {
     "server": "nodemeon server.js",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
-    "start": "vite"
+    "deploy": "gh-pages -d dist"
+    
   },
   "author": "",
   "license": "ISC",
